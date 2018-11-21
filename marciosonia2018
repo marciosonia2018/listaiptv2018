@@ -1,0 +1,704 @@
+#EXTM3U
+ 
+#EXTINF:0 tvg-logo="" group-title="", SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8?LISTASDAGLAU
+ 
+#EXTINF:0 tvg-logo="" group-title="", Globo Nordeste HD
+https://ll4.azureedge.net//hls1/bobonordeste.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Globo Nordeste SD
+https://ll4.azureedge.net//hls1/bobonordeste-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Globo SP HD
+https://ll4.azureedge.net//hls1/bobosp.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Globo SP SD
+https://ll4.azureedge.net//hls1/bobosp-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Globo RJ HD
+https://ll4.azureedge.net//hls1/boborj.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Globo RJ SD
+https://ll4.azureedge.net//hls1/boborj-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Rede_Bandeirantes_logo_2011.svg" group-title="", Band HD
+https://ll4.azureedge.net//hls1/band.m3u8
+ 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Rede_Bandeirantes_logo_2011.svg" group-title="", Band SD
+https://ll4.azureedge.net//hls1/band-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="", Reccord HD
+https://ll4.azureedge.net//hls1/recordsp.m3u8
+ 
+#EXTINF:0 tvg-logo="http://recordtv.r7.com/files/2016/11/logo-ok-.jpg" group-title="", Record SD
+https://ll4.azureedge.net//hls1/recordsp-sd.m3u8
+ 
+#EXTINF:0 tvg-logo=""", Rede TV HD
+https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1537593065.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", TV Futura HD
+https://tv.unisc.br/hls/test.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", TV Cultura HD
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/6.m3u8
+ 
+#EXTINF:0 tvg-logo="http://imagem.natelinha.uol.com.br/grande/redebrasil-grande.jpg" group-title="", Rede Brasil
+https://59f1cbe63db89.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w170095665.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", TV Gazeta HD
+http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", TV Gazeta SD
+http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
+ 
+#EXTINF:0 tvg-logo="http://www.somos1so.com.br/wp-content/uploads/2010/06/realizacao-logo-sesctv.png" group-title="", Sesc TV HD
+http://api.new.livestream.com/accounts/16991778/events/6670101/live.m3u8?LISTASDAGLAU
+ 
+#EXTINF:0 tvg-logo="http://www.somos1so.com.br/wp-content/uploads/2010/06/realizacao-logo-sesctv.png" group-title="", Sesc TV SD
+http://api.new.livestream.com/accounts/16991778/events/6670101/live.m3u8?LISTASDAGLAU
+ 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TV_Escola.png" group-title="", TV Escola HD
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8?LISTASDAGLAU
+ 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TV_Escola.png" group-title="", TV Escola SD
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8?LISTASDAGLAU
+ 
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/zuXk8jPjakQ/maxresdefault.jpg" group-title="", Amazon Sat HD
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/playlist.m3u8?LISTASDAGLAU
+ 
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/zuXk8jPjakQ/maxresdefault.jpg" group-title="", Amazon Sat Sd
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/playlist.m3u8?LISTASDAGLAU
+ 
+#EXTINF:0 tvg-logo="http://tvdiario.verdesmares.com.br/img/tvdiario/tvdiario-comp3.png" group-title="", TV Diário SD
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8
+ 
+#EXTINF:0 tvg-logo="http://www.tvtuga.com/wp-content/uploads/2011/10/terra-viva.jpg" group-title="", Terra Vida SD
+http://evpp.mm.uol.com.br:1935/band/terraviva/playlist.m3u8?LISTASDAGLAU
+ 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="", TV Aparecida SD
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8?
+ 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="", TV Novo Tempo SD
+http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w1008528070_b4128000_slpor.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",T V Evangelizar SD
+http://tvevangelizar01.crossdigital.com.br:1935/evangelizar/tv/chunklist_w128316483.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", TV Canção Nova HD
+https://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:0 tvg-logo="" group-title="", Fox Channel HD
+https://l3.azureedge.net//hls1/fox.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Fox Channel SD
+https://l3.azureedge.net//hls1/fox-sd.m3u8
+ 
+#EXTINF:0 tvg-logo=""", Fox Life HD
+https://ll4.azureedge.net//hls1/foxlife.m3u8
+ 
+#EXTINF:0 tvg-logo=""", Fox LIfe SD
+https://ll4.azureedge.net//hls1/foxlife-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="https://mitvstatic.com/channels/br_fox-premium-1-hd_m.png" group-title="", Fox Premium 1 HD
+https://ll4.azureedge.net//hls1/foxpremium1.m3u8
+ 
+#EXTINF:0 tvg-logo="https://mitvstatic.com/channels/br_fox-premium-1-hd_m.png" group-title="", Fox Premium 1 SD
+https://ll4.azureedge.net//hls1/foxpremium1-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Fox Premium 2 HD
+https://ll4.azureedge.net//hls1/foxpremium2.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Fox Premium 2 SD
+https://ll4.azureedge.net//hls1/foxpremium2-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Max HD
+https://ll4.azureedge.net//hls1/max.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Max SD
+https://ll4.azureedge.net//hls1/max-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Max UP HD
+https://ll4.azureedge.net//hls1/maxup.m3u8
+ 
+#EXTINF:0 tvg-logo=""", Max UP SD
+https://ll4.azureedge.net//hls1/maxup-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="", Max Prime HD
+https://ll4.azureedge.net//hls1/maxprime.m3u8
+ 
+#EXTINF:0 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156096/maxprime-hd.png?v=636446344633130000" group-title="", Max Prime SD
+https://ll4.azureedge.net//hls1/maxprime-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", HBO HD
+https://ll4.azureedge.net//hls1/hbo.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", HBO SD
+https://ll4.azureedge.net//hls1/hbo-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="", HBO 2 HD
+https://ll4.azureedge.net//hls1/hbo2.m3u8
+ 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="", HBO 2 SD
+https://ll4.azureedge.net//hls1/hbo2-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="", HBO Plus HD
+https://ll4.azureedge.net//hls1/hboplus.m3u8
+ 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="", HBO Plus SD
+https://ll4.azureedge.net//hls1/hboplus-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/HBO_Family_Logo.png" group-title="", HBO Family HD
+https://ll4.azureedge.net//hls1/hbofamily.m3u8
+ 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/HBO_Family_Logo.png" group-title="", HBO Family SD
+https://ll4.azureedge.net//hls1/hbofamily-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", HBO Signature HD
+https://ll4.azureedge.net//hls1/hbosignature.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", HBO Signature SD
+https://ll4.azureedge.net//hls1/hbosignature-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Telecine Fun HD
+https://ll4.azureedge.net//hls1/telecinefun.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",Telecin e Fun Sd
+https://ll4.azureedge.net//hls1/telecinefun-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Telecine premium HD
+https://ll4.azureedge.net//hls1/telecinepremium.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Telecine Premium SD
+https://ll4.azureedge.net//hls1/telecinepremium-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Telecine Touch HD
+https://ll4.azureedge.net//hls1/telecinetouch.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Telecine Touch SD
+https://ll4.azureedge.net//hls1/telecinetouch-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Telecine Pipoca HD
+https://ll4.azureedge.net//hls1/telecinepipoca.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Telecine Pipoca SD
+https://ll4.azureedge.net//hls1/telecinepipoca-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Telecine Action HD
+https://ll4.azureedge.net//hls1/telecineaction.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Telecine Action SD
+https://ll4.azureedge.net//hls1/telecineaction-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Telecine Cult HD
+https://ll4.azureedge.net//hls1/telecinecult.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Telecine Cult SD
+https://ll4.azureedge.net//hls1/telecinecult-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", TNT HD
+https://ll4.azureedge.net//hls1/tnt.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", TNT SD
+https://ll4.azureedge.net//hls1/tnt-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", TNT Series HD
+https://ll4.azureedge.net//hls1/tntseries.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", TNT Series SD
+https://ll4.azureedge.net//hls1/tntseries-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", TCM HD
+https://ll4.azureedge.net//hls1/tcm.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", TCM SD
+https://ll4.azureedge.net//hls1/tcm-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Megapix HD
+https://ll4.azureedge.net//hls1/megapix.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Megapix SD
+https://ll4.azureedge.net//hls1/megapix-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Cinemax HD
+https://ll4.azureedge.net//hls1/cinemax.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Cinemax SD
+https://ll4.azureedge.net//hls1/cinemax-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", AXN HD
+https://ll4.azureedge.net//hls1/axn.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", AXN SD
+https://ll4.azureedge.net//hls1/axn-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", AMC HD
+https://ll4.azureedge.net//hls1/amc.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", AMC SD
+https://ll4.azureedge.net//hls1/amc-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Space HD
+https://ll4.azureedge.net//hls1/space.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Space SD
+https://ll4.azureedge.net//hls1/space-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Syfy HD
+https://ll4.azureedge.net//hls1/syfy.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Syfy SD
+https://ll4.azureedge.net//hls1/syfy-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Warner HD
+https://ll4.azureedge.net//hls1/warner.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Warner SD
+https://ll4.azureedge.net//hls1/warner-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", A&E HD
+https://ll4.azureedge.net//hls1/aie.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", A&E SD
+https://ll4.azureedge.net//hls1/aie-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Studio Universal HD
+https://ll4.azureedge.net//hls1/studiouniversal.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Studio Universal SD
+https://ll4.azureedge.net//hls1/studiouniversal-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Universal Channel HD
+https://ll4.azureedge.net//hls1/universal.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Universal Channel SD
+https://ll4.azureedge.net//hls1/universal-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Sony HD
+https://ll4.azureedge.net//hls1/sony.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Sony SD
+https://ll4.azureedge.net//hls1/sony-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Paramount Channel HD
+https://ll4.azureedge.net//hls1/paramount.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Paramount Channel SD
+https://ll4.azureedge.net//hls1/paramount-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Life Time HD
+https://ll4.azureedge.net//hls1/foxlife.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Life Time SD
+https://ll4.azureedge.net//hls1/foxlife-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", FX HD
+https://ll4.azureedge.net//hls1/fx.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", FX SD
+https://ll4.azureedge.net//hls1/fx-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Curta ! HD
+https://ll4.azureedge.net//hls1/curta.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Curta SD
+https://ll4.azureedge.net//hls1/curta-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Cine Sky SD
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:0 tvg-logo="" group-title="", SporTV HD
+https://ll4.azureedge.net//hls1/sportv1.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", SporTV SD
+https://ll4.azureedge.net//hls1/sportv1-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", SporTV 2 HD
+https://ll4.azureedge.net//hls1/sportv2.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", SporTV 2 Sd
+https://ll4.azureedge.net//hls1/sportv2-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", SporTV 3 HD
+https://ll4.azureedge.net//hls1/sportv3.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", SporTV 3 SD
+https://ll4.azureedge.net//hls1/sportv3-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Fox Sport 1 HD
+https://ll4.azureedge.net//hls1/foxsports1.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Fox Sport 2 SD
+https://ll4.azureedge.net//hls1/foxsports1-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Espn HD
+https://ll4.azureedge.net//hls1/espn.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Espn Sd
+https://ll4.azureedge.net//hls1/espn-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Espn Brasil HD
+https://ll4.azureedge.net//hls1/espnbrasil.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Espn Brasil SD
+https://ll4.azureedge.net//hls1/espnbrasil-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Espn 2 HD
+https://ll4.azureedge.net//hls1/espn2.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Espn 2 SD
+https://ll4.azureedge.net//hls1/espn2-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Espn Extra HD
+https://ll4.azureedge.net//hls1/espnextra.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Espn Extra SD
+https://ll4.azureedge.net//hls1/espnextra-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", TNS SD
+https://ll4.azureedge.net//hls1/espnextra-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Combate HD
+https://ll4.azureedge.net//hls1/combate.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Combate Sd
+https://ll4.azureedge.net//hls1/combate-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Premiere Clubes HD
+https://ll4.azureedge.net//hls1/premiereclubes.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Premiere Clubes SD
+https://ll4.azureedge.net//hls1/premiereclubes-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Premiere 1 HD
+ 
+ 
+#EXTINF:0 tvg-logo="" group-title="", Premiere 2 HD
+ 
+ 
+#EXTINF:0 tvg-logo="" group-title="", Premiere 3 HD
+ 
+ 
+#EXTINF:0 tvg-logo="" group-title="", Premiere 4 HD
+ 
+ 
+#EXTINF:0 tvg-logo="" group-title="", Premiere 5 HD
+ 
+ 
+#EXTINF:0 tvg-logo="" group-title="", Premiere 6 HD
+ 
+ 
+#EXTINF:0 tvg-logo="" group-title="", Premiere 7 HD
+ 
+ 
+#EXTINF:0 tvg-logo="" group-title="", Premiere 8 HD
+ 
+ 
+#EXTINF:0 tvg-logo="" group-title="", Premiere 9 HD
+ 
+ 
+#EXTINF:0 tvg-logo="" group-title="", Band Sport HD
+https://ll4.azureedge.net//hls1/bandsports.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Band Sport SD
+https://ll4.azureedge.net//hls1/bandsports-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Discovery Turbo HD
+https://ll4.azureedge.net//hls1/discoveryturbo.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Discovery Turbo SD
+https://ll4.azureedge.net//hls1/discoveryturbo-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Discovery Science HD
+https://ll4.azureedge.net//hls1/discoverysience.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Discovery Science SD
+https://ll4.azureedge.net//hls1/discoverysience-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Discovery Theater HD
+https://ll4.azureedge.net//hls1/discoverytheater.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Discovery Theater SD
+https://ll4.azureedge.net//hls1/discoverytheater-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Discovery Home & Health HD
+https://ll4.azureedge.net//hls1/discoveryhomeihealth.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Discovery Home & Health SD
+https://ll4.azureedge.net//hls1/discoveryhomeihealth-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Discovery Channal HD
+https://ll4.azureedge.net//hls1/discovery.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Discovery Channel SD
+https://ll4.azureedge.net//hls1/discovery-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Discovery Civilization HD
+https://ll4.azureedge.net//hls1/discoverycivilization.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Discovery Civilization SD
+https://ll4.azureedge.net//hls1/discoverycivilization-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Discovery World HD
+https://ll4.azureedge.net//hls1/discoveryworld.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Discovery World SD
+https://ll4.azureedge.net//hls1/discoveryworld-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Investigação Discovery HD
+https://ll4.azureedge.net//hls1/investigacaodiscovery.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Investigação Discovery SD
+https://ll4.azureedge.net//hls1/investigacaodiscovery-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", History HD
+https://ll4.azureedge.net//hls1/history.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", History SD
+https://ll4.azureedge.net//hls1/history-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", History 2 HD
+https://ll4.azureedge.net//hls1/history2.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", History 2 SD
+https://ll4.azureedge.net//hls1/history2-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", National Geographic HD
+https://ll4.azureedge.net//hls1/natgeo.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", National Geographic SD
+https://ll4.azureedge.net//hls1/natgeo-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Nat Geo Wild HD
+https://ll4.azureedge.net//hls1/natgeowild.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Nat geo Wild SD
+https://ll4.azureedge.net//hls1/natgeowild-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Animal Planet HD
+https://ll4.azureedge.net//hls1/animalplanet.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Animal Planet SD
+https://ll4.azureedge.net//hls1/animalplanet-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Disney Channel HD
+https://ll4.azureedge.net//hls1/disney.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Disney Channel SD
+https://ll4.azureedge.net//hls1/disney-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Disney JR HD
+https://ll4.azureedge.net//hls1/disneyjunior.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Disney JR SD
+https://ll4.azureedge.net//hls1/disneyjunior-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Disney XD HD
+https://l3.azureedge.net//hls1/disneyxd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Disney XD SD
+https://ll4.azureedge.net//hls1/disneyxd-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Nickelodeon HD
+https://ll4.azureedge.net//hls1/nick.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Nickelodeon SD
+https://ll4.azureedge.net//hls1/nick-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Nick JR HD
+https://ll4.azureedge.net//hls1/nickjr.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Nick JR SD
+https://ll4.azureedge.net//hls1/nickjr-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Discovery Kids HD
+https://ll4.azureedge.net//hls1/discoverykids.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Discovery Kids SD
+https://ll4.azureedge.net//hls1/discoverykids-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Nat Geo Kids HD
+https://ll4.azureedge.net//hls1/natgeokids.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Nat Geo Kids SD
+https://ll4.azureedge.net//hls1/natgeokids-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Boomerang HD
+https://ll4.azureedge.net//hls1/boomerang.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Boomerang SD
+https://ll4.azureedge.net//hls1/boomerang-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Tooncast HD
+https://ll4.azureedge.net//hls1/tooncast.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Tooncast SD
+https://ll4.azureedge.net//hls1/tooncast-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Gloob HD
+https://ll4.azureedge.net//hls1/gloob.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Gloob SD
+https://ll4.azureedge.net//hls1/gloob-sd.m3u8
+ 
+ 
+#EXTINF:0 tvg-logo="" group-title="", Zoomoo HD
+ 
+ 
+#EXTINF:0 tvg-logo="" group-title="", Zoomoo SD
+https://ll4.azureedge.net//hls1/zoomoo-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", TV Rá-Tim-Bum HD
+ 
+ 
+#EXTINF:0 tvg-logo="" group-title="", TV Rá-Tim-Bum SD
+ 
+ 
+#EXTINF:0 tvg-logo="" group-title="", Cartoon Network HD
+https://ll4.azureedge.net//hls1/cartoon.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",   Cartoon Network SD
+https://ll4.azureedge.net//hls1/cartoon-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",   Simpsons SD
+https://cdn11.pxstream.tv/hls/ossimpsons/tracks-v1a1/mono.m3u8?md5=9o8Z0iFMEWXpreHPlt0tCQ&expires=1542768747
+ 
+#EXTINF:0 tvg-logo="" group-title="", MTV HD
+https://ll4.azureedge.net//hls1/mtv.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="",   MTV SD
+https://ll4.azureedge.net//hls1/mtv-sd.m3u8 
+ 
+#EXTINF:0 tvg-logo="" group-title="", Multishow HD
+https://ll4.azureedge.net//hls1/multishow.m3u8 
+ 
+#EXTINF:0 tvg-logo="" group-title="", Multishow SD
+https://ll4.azureedge.net//hls1/multishow-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", BIS HD
+https://ll4.azureedge.net//hls1/bis.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", BIS SD
+https://ll4.azureedge.net//hls1/bis-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Viva HD
+https://ll4.azureedge.net//hls1/viva.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Viva SD
+https://ll4.azureedge.net//hls1/viva-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", WOOHOO HD
+https://ll4.azureedge.net//hls1/zoomoo.m3u8 
+ 
+#EXTINF:0 tvg-logo="" group-title="", WOOHOO SD
+ 
+
+#EXTINF:0 tvg-logo="" group-title="", GNT HD
+https://ll4.azureedge.net//hls1/gnt.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", GNT SD
+https://ll4.azureedge.net//hls1/gnt-sd.m3u8 
+ 
+#EXTINF:0 tvg-logo="" group-title="", Canal E! HD
+https://ll4.azureedge.net//hls1/canale.m3u8 
+ 
+#EXTINF:0 tvg-logo="" group-title="", Canal E! SD
+https://ll4.azureedge.net//hls1/canale-sd.m3u8 
+ 
+#EXTINF:0 tvg-logo="" group-title="", Comedy Central HD
+https://ll4.azureedge.net//hls1/comedycentral.m3u8 
+
+#EXTINF:0 tvg-logo="" group-title="", Comedy Central SD
+https://ll4.azureedge.net//hls1/comedycentral-sd.m3u8 
+ 
+#EXTINF:0 tvg-logo="" group-title="", Food Network - HD
+https://www.toquemp3.com:25463/live/AssistirTV/OnlineGratis/90.m3u8?token=QxBcWRdYGgoRUQMMVQgICANRUwoHBwUBDlZaCwBaAlIJVgRaBQBdCFFDHxcXREpcVghtUVcUXloIHhpGS1xHaFFWFgJGARocERVaWAESAgkbR0JRVxReQQoEDAMPGxkVXUpAXRZeWVxsBVZDDVNdGw0LR1RfGkYMVm1cVlVYW1MaCBYJRhwaWUAREQ9GY1dYRQBBGBUWJQRNW1lBGHVBU1kSeX1GHBpSWhVBVBBVGgNZEF5UHxQHDE1cTEFBGw8VemAWFEZVQERWD0BcC14aAxUIAU0LFEhBUUFnQV1KQUVdU1ldFhICEgNDHxcJUUBmVApcVlZVEApXXEsRAhsFFRQQWVcKWUxfQT5DXAASAhsFUwEMAxQZ 
+ 
+#EXTINF:0 tvg-logo="" group-title="", FISH TV HD
+https://ll4.azureedge.net//hls1/fishtv.m3u8 
+ 
+#EXTINF:0 tvg-logo="" group-title="", FISH TV SD
+https://ll4.azureedge.net//hls1/fishtv-sd.m3u8 
+ 
+#EXTINF:0 tvg-logo="" group-title="", Arte 1 HD
+https://ll4.azureedge.net//hls1/arte1.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Arte 1 SD
+https://ll4.azureedge.net//hls1/arte1-sd.m3u8 
+ 
+#EXTINF:0 tvg-logo="" group-title="",   Globosat+ HD
+https://ll4.azureedge.net//hls1/maisbobosat.m3u8 
+ 
+#EXTINF:0 tvg-logo="" group-title="",   Globosat+ SD
+https://ll4.azureedge.net//hls1/maisbobosat-sd.m3u8 
+ 
+#EXTINF:0 tvg-logo="" group-title="", G2P TV - HD
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", TBS - HD
+https://www.toquemp3.com:25463/live/AssistirTV/OnlineGratis/85.m3u8?token=QxBcWRdYGgoRBVdQBgRbWANcAwAGAQdTAVBcBAsNBAJaUQUAAQQOB1dDHxcXREpcVghtUVcUXlsNHhpGS1xHaFFWFgJGARocERVaWAESAgkbR0JRVxReQQ4LDwEaFRdSQEZRSgpRVG9XBEVcB1UaA1kQXlQfFAsNZ1ZdXllXURUCEAUaSBJRQ0NDCRc3X1lLUhYSHhN3AxZRU0oTdE1RVhh/cRpIElpZRxNSQQESAhsGXQALERpGAFdHVkdKQBcNGnBmGkgSXUhHBF1GDV9WGw1HXwtGDkZPGltLbEpcRkNKV1VVAUIaChFRERlGXVlBaAZdVl1TBxdRXVZAGgMXBxoeFlULXlFEXBNsRQ1UGgMVVAAICgZGHg== 
+ 
+#EXTINF:0 tvg-logo="" group-title="", Canal OFF HD
+https://ll4.azureedge.net//hls1/off.m3u8 
+ 
+#EXTINF:0 tvg-logo="" group-title="", Canal OFF SD
+https://ll4.azureedge.net//hls1/off-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", TLC HD
+https://ll4.azureedge.net//hls1/tlc.m3u8 
+ 
+#EXTINF:0 tvg-logo="" group-title="", TLC SD
+https://ll4.azureedge.net//hls1/tlc-sd.m3u8 
+ 
+#EXTINF:0 tvg-logo="" group-title="",   Record News - SD
+ 
+ 
+#EXTINF:0 tvg-logo="" group-title="",   Record News HD
+
+ 
+#EXTINF:0 tvg-logo="" group-title="",   Record News SD
+ 
+ 
+#EXTINF:0 tvg-logo="" group-title="", Band News HD
+https://ll4.azureedge.net//hls1/bandnews.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Band News SD
+https://ll4.azureedge.net//hls1/bandnews-sd.m3u8 
+ 
+#EXTINF:0 tvg-logo="" group-title="", Globo News HD
+https://ll4.azureedge.net//hls1/globonews.m3u8  
+ 
+#EXTINF:0 tvg-logo="" group-title="", Globo News SD
+https://ll4.azureedge.net//hls1/globonews-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Real Madrid TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:0 tvg-logo="" group-title="",   Sport 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8 
+ 
+#EXTINF:0 tvg-logo="" group-title="",   Sport 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8 
+ 
+#EXTINF:0 tvg-logo="" group-title="",   Sexy Hot HD
+https://ll4.azureedge.net//hls1/sexhot.m3u8 
+ 
+#EXTINF:0 tvg-logo="" group-title="",   Sexy Hot SD
+https://ll4.azureedge.net//hls1/sexhot-sd.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Erotic HD
+https://ll4.azureedge.net//hls1/erotic.m3u8 
+ 
+#EXTINF:0 tvg-logo="" group-title="", Erotic SD
+https://ll4.azureedge.net//hls1/erotic-sd.m3u8 
+ 
+#EXTINF:0 tvg-logo="" group-title="", Pinko TV HD
+https://ll4.azureedge.net//hls1/pinko.m3u8 
+ 
+#EXTINF:0 tvg-logo="" group-title="", Pinko TV SD
+https://ll4.azureedge.net//hls1/pinko-sd.m3u8 
+ 
+#EXTINF:0 tvg-logo="" group-title="", Evilangel HD
+https://ll4.azureedge.net//hls1/evilangel.m3u8
+ 
+#EXTINF:0 tvg-logo="" group-title="", Evilangel SD
+https://ll4.azureedge.net//hls1/evilangel-sd.m3u8
